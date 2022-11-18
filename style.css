@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {text-align: center;}
+a {
+  text-align: center;
+ padding: 10px;
+}
+figure {
+  text-align: center;
+  font-size: smaller;
+}
+p {
+  width: 800px;
+  text-align: center;
+}
+#details {
+  float: left;
+}
